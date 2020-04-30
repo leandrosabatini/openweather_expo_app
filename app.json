@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "HelloWorld",
+    "name": "OpenWeather Visualizador de cidades",
     "slug": "openweather",
     "platforms": [
       "ios",
